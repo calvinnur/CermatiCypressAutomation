@@ -17,9 +17,10 @@
 
 # Demo Preview
 ![Screenshot 2024-10-22 233246](https://github.com/user-attachments/assets/9c79c331-ec23-4358-867e-abb825a3ef1d)
-![Screenshot 2024-10-22 233246](https://github.com/user-attachments/assets/28f81464-399d-431f-8f79-952d1ecc6f77)
-![Screenshot 2024-10-22 233246](https://github.com/user-attachments/assets/358947d8-0177-410d-8659-4abcfe69d7e3)
-![Screenshot 2024-10-22 233246](https://github.com/user-attachments/assets/9df32edc-53de-404b-8174-405fb9d10c92)
+![Screenshot 2024-10-22 234012](https://github.com/user-attachments/assets/ad81d1f3-8545-45c6-9bed-5738678de657)
+![Screenshot 2024-10-22 234125](https://github.com/user-attachments/assets/7aa62e7c-7801-4ae0-abce-fa67e43bb4f0)
+![Screenshot 2024-10-22 234230](https://github.com/user-attachments/assets/1dbf2586-28f2-412e-b03b-6e243db43123)
+
 
 
 # Manual Demo
