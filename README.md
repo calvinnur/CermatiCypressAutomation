@@ -20,13 +20,10 @@
 ![Screenshot 2024-10-22 234012](https://github.com/user-attachments/assets/ad81d1f3-8545-45c6-9bed-5738678de657)
 ![Screenshot 2024-10-22 234125](https://github.com/user-attachments/assets/7aa62e7c-7801-4ae0-abce-fa67e43bb4f0)
 ![Screenshot 2024-10-22 234230](https://github.com/user-attachments/assets/1dbf2586-28f2-412e-b03b-6e243db43123)
+![Screenshot 2024-10-22 234633](https://github.com/user-attachments/assets/aaf76414-f9f8-4ebd-aa97-d07c914a2c7b)
 
 
 
-# Manual Demo
-- Compare Products Case:
-(https://user-images.githubusercontent.com/87260750/207362902-e76de861-29f5-41c8-b3de-f85f312262fc.mp4)
 
-- Search Product Case:
-(https://user-images.githubusercontent.com/87260750/207363410-467d4edd-76ca-4d54-995f-5311dc947d01.mp4)
+ 
 
