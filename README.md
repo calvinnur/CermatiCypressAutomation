@@ -1,4 +1,4 @@
-# Automation Test For Checkout Feature
+# Automation Test For Register Feature
 
 # Tech Support
 1. Cypress package version: 13.15.0
