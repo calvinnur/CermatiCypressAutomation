@@ -8,8 +8,8 @@
 
 
 # Installation
-1.  git clone (https://github.com/calvinnur/KST](https://github.com/calvinnur/CermatiCypressAutomation)
-2.  Open your Katalon studio
+1.  git clone (https://github.com/calvinnur/CermatiCypressAutomation)
+2.  Open your code editor
 3.  Open the folder that we have been cloning 
 4.  Execute the test cases with the test suites feature on your katalon
 5.  Recommended to use a display resolution of 1920 x 1080
