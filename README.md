@@ -16,7 +16,9 @@
 
 
 # Demo Preview
-![Demo][Screenshot 2024-10-22 233246](https://github.com/user-attachments/assets/bfdfabb6-053d-4da4-a188-c646a97264b7)
+![Screenshot 2024-10-22 233246](https://github.com/user-attachments/assets/9c79c331-ec23-4358-867e-abb825a3ef1d)
+
+
 
 ![Demo1]()
 ![Demo3]()
