@@ -1,12 +1,14 @@
 # Automation Test For Checkout Feature
 
 # Tech Support
-1. Katalon Studio Version 8.35 - Latest
-2. Selenium
-3. Java
+1. Cypress package version: 13.15.0
+2. Cypress binary version: 13.15.0
+3. Electron version: 27.3.10
+4. Bundled Node version: 18.17.1
+
 
 # Installation
-1.  git clone https://github.com/calvinnur/KST
+1.  git clone (https://github.com/calvinnur/KST](https://github.com/calvinnur/CermatiCypressAutomation)
 2.  Open your Katalon studio
 3.  Open the folder that we have been cloning 
 4.  Execute the test cases with the test suites feature on your katalon
