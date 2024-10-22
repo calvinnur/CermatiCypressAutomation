@@ -1,0 +1,8 @@
+{
+  "url_register_user": "https://www.cermati.com/app/gabung",
+  "example_phone_number" : "08592510",
+  "example_email": "jajang",
+  "example_first_name" : "Jajang",
+  "example_last_name" : "Surajang",
+  "url_registerr_otp" : "https://www.cermati.com/app/verify-otp?isWhatsAppFirst=true&target=/"
+}
